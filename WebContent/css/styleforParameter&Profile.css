@@ -1,0 +1,17 @@
+table.tblcustom
+{
+	border:2px solid;
+}
+
+.customContainer
+{
+	width:50%;
+	padding:5% 5%;
+	float:left;
+}
+
+table td{
+	color:black;
+}
+
+h1 { font: bold 40px/40px Helvetica, Arial, Sans-serif; text-align: left; color: #eee; text-shadow: 0px 2px 6px #333; }

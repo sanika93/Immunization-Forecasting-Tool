@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+.Safe-But-Not-Recommended
+{
+	color:#ff8000;
+	font-weight: bold;
+}
+
+.Recommended
+{
+	color:#00b300;
+	font-weight: bold;
+}
+
+.Consult-Doctor
+{
+	color:#ffffff;
+	font-weight: bold;
+}
+
+.Booster-Dose
+{
+	color:#0000a0;
+	font-weight: bold;
+}
+
+.Not-Recommended
+{
+	color:#ff8000;
+	font-weight: bold;
+}

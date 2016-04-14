@@ -1,0 +1,127 @@
+.intro-block{
+	background:url(../images/bluealt.png) repeat;
+	padding: 100px 15px 60px 15px;
+	color:#fff;
+}
+
+h1 { font: bold 40px/40px Helvetica, Arial, Sans-serif; text-align: left; color: #eee; text-shadow: 0px 2px 6px #333; }
+
+.iframenew-block
+{
+	background:url(../images/greenalt.gif) repeat;
+	padding: 20px 15px 50px 15px;
+	color:#fff;
+	width:100%;
+}
+
+.modal.in {
+   display:block;
+}
+p.lead
+{
+	padding: 10px 15px 10px 15px;
+	align:justify;
+}
+.cerner-block{
+	background:url(../images/greenalt.gif) repeat;
+	padding: 100px 15px 60px 15px;
+	color:#fff;
+}
+body.welcome {
+    background-image:  url(../images/welcome_user.jpg);
+    background-size:   cover;                  
+}
+table
+{
+	padding: 100px 15px 60px;
+	width:50%;
+	border:1px solid;
+}
+
+p.reset
+{
+	font-family: "Calibri", Times, serif;
+	font-size: 20px;
+	color:#000000;
+}
+.cerner-contact-block{
+	background:url(../images/bluealt.png) repeat;
+	padding: 100px 15px 60px;
+	color:#fff;
+}
+.text-muted{
+	color:#e9e6df;
+	font-weight:100;
+}
+
+div.c-wrapper{
+    width: 70%; /* for example */
+    margin: auto;
+}
+
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+width: 80%; /* use this, or not */
+margin: auto;
+}
+
+
+
+table.tablenew
+{
+	border: 3px solid white;
+	
+}
+
+body.register
+{
+	background-color: white;
+}
+
+table td
+{
+	color: #0000a0;
+}
+
+
+.textColor
+{
+	color: #000000;
+}
+
+.header
+{
+	background-color: green;
+	width: 100%;
+	height: 30%;
+	
+}
+
+
+
+.containerReset {
+ 
+ padding: 250px 50px 160px;
+ height: 400px;
+ width: 800px;
+ position: absolute;
+ margin-left: 180px;
+ bottom: 60%;
+
+}
+
+
+
+#buttons
+{
+	position: absolute !important;;
+	left:50% !important;
+	top:20% !important;
+}
+
+.tabsUI
+{
+	position:absolute;
+	top:30%;
+	left:30%;
+}
