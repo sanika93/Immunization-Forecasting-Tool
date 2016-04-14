@@ -5,7 +5,7 @@ Purpose:
 
 An immunization information system provides numerous benefits to all those involved in the health-care of children, contributing to a higher immunization rate and a healthier population.
 
-Software Development LifeCycle Used:
+Software Development Life Cycle Used:
 
 The project uses the agile methodology of Software Development Life Cycle. Agile approaches are typically used in software development to help businesses respond to unpredictability. The Agile framework used for the project is Scrum. Model View Controller architechture has been used.
 
